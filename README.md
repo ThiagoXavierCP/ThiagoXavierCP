@@ -1,30 +1,36 @@
-### Fala Pessoal
-
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoXavierCP&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoXavierCP&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <h1 align="center">
+    Oi Tudo bem? Eu sou o 
+    <a href="https://www.linkedin.com/in/thiagoxaviercp/">Thiago Xavier 😃️</a>
+  </h1>
+  
+  <p align="center">
+    Sou Desenvolvedor e estou em busca de atuar profissionalmente na área. Atualmente estou cursando Sistemas da Informação e me desenvolvendo em Python e Java.
+  </p>
 </div>
-<br>
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" 
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-   </div>
-    
-  
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: tiagoxaviercp02@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://https://www.linkedin.com/in/thiagoxaviercp/">
-      <img width="25" src="linkedin.svg">
-    </a>
+<div align="center">
+  <a href="https://github.com/ThiagoXavierCP">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagoXavierCP&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoXavierCP&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
+
+<div align="center" valign="top"><br>
+  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+</div><br>
+
+<div align="center">
+  <a href="https://www.instagram.com/xavieer_16/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thiagoxaviercp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:tiagoxaviercp02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
-![snake gif](https://github.com/ThiagoXavierCP/ThiagoXavierCP/blob/output/github-contribution-grid-snake.svg)
+</div>
