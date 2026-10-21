@@ -66,7 +66,6 @@ Em paralelo, sou fundador da **Kernne**, um estúdio de software que cria apps, 
 
 <div align="center">
 
-<img src="https://helio-github-stats.vercel.app/api?username=ThiagoXavierCP&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br&include_all_commits=true&count_private=true" height="165" alt="Estatísticas"/>
 <img src="https://helio-github-stats.vercel.app/api/top-langs?username=ThiagoXavierCP&layout=compact&theme=github_dark&hide_border=true&locale=pt-br&langs_count=8" height="165" alt="Linguagens mais usadas"/>
 
 <img src="https://streak-stats.demolab.com?user=ThiagoXavierCP&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
