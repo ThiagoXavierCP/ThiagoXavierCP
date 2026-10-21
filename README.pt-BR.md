@@ -15,12 +15,12 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Desenvolvedor de Software**, atuando como **Analista de Sistemas no Grupo Fleury**, onde desenvolvo **backend, integrações e automações de processos corporativos** com **Java, Spring Boot, SQL Server e Lecom BPM**. Meu dia a dia é transformar processos manuais em fluxos automatizados, confiáveis e auditáveis, integrando sistemas que nem sempre foram feitos para conversar entre si.
+Sou **Desenvolvedor de Software**, atuando como **Analista de Sistemas no Grupo Fleury**, onde desenvolvo **backend, integrações e automações de processos corporativos** com **Java, Spring Boot, SQL Server e Lecom BPM** em **ambientes de missão crítica**. Meu dia a dia é transformar processos manuais em fluxos automatizados, confiáveis e auditáveis, integrando **ERP, Senior e sistemas internos**. Atuo no ciclo completo: análise de requisitos, desenvolvimento, code review e sustentação.
 
 Em paralelo, sou fundador da **Kernne**, um estúdio de software que cria apps, sites, sistemas e automações para pequenas e médias empresas, com foco em produtos **SaaS B2B**.
 
 - 🏥 Automação de processos em uma das maiores empresas de saúde do Brasil
-- 🤖 Robôs Java para sincronização de dados entre sistemas (RH, BPM e APIs externas)
+- 🤖 Robôs Java para sincronização de dados entre sistemas (ERP, Senior, BPM e APIs externas)
 - 🚀 Construindo produtos SaaS do zero, da modelagem do banco ao app mobile
 - 🎓 Bacharelado em Sistemas de Informação na Newton Paiva
 
@@ -38,18 +38,24 @@ Em paralelo, sou fundador da **Kernne**, um estúdio de software que cria apps, 
 <div align="center">
 
 **Backend**<br/>
-<img src="https://skillicons.dev/icons?i=java,spring,python&theme=dark" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,python&theme=dark" alt="Backend"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="SQL Server"/>
 
 **Frontend & Mobile**<br/>
 <img src="https://skillicons.dev/icons?i=js,react,html,css&theme=dark" alt="Frontend"/>
 
 **Cloud, Dados & Ferramentas**<br/>
-<img src="https://skillicons.dev/icons?i=supabase,azure,git,github,postman&theme=dark" alt="Ferramentas"/>
+<img src="https://skillicons.dev/icons?i=supabase,azure,git,github,gitlab,postman&theme=dark" alt="Ferramentas"/>
+
+**IDEs**<br/>
+<img src="https://skillicons.dev/icons?i=idea,eclipse,vscode&theme=dark" alt="IDEs"/>
 
 <img src="https://img.shields.io/badge/Lecom%20BPM-0B3D91?style=for-the-badge&logoColor=white" alt="Lecom BPM"/>
 <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
 <img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver"/>
+<img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge" alt="Scrum"/>
+<img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge" alt="Kanban"/>
 
 </div>
 
