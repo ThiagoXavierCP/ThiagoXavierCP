@@ -1,55 +1,88 @@
-<div>
+<div align="center">
 
-<h1 align="center">
-    Oi Tudo bem? Eu sou o 
-<a href="https://www.linkedin.com/in/thiagoxaviercp/">Thiago Xavier </a>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00b4d8&height=180&section=header&text=Thiago%20Xavier&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Process%20Automation&descAlignY=60&descSize=18" width="100%" alt="Thiago Xavier"/>
 
-<p align="center">
-  Desenvolvedor de Software com experiência em desenvolvimento backend, automações e aplicações web.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=620&lines=Java+%2B+Spring+Boot+%7C+REST+APIs;Business+process+automation+(BPM);SQL+Server+%7C+T-SQL+%7C+Integrations;Founder+of+Kernne+%7C+SaaS+for+SMBs" alt="Typing SVG" /></a>
+
+<p>
+  <a href="https://www.linkedin.com/in/thiagoxaviercp/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:tiagoxaviercp02@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Belo%20Horizonte%2C%20Brazil-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Belo Horizonte, Brazil"/>
+  <a href="README.pt-BR.md"><img src="https://img.shields.io/badge/Leia%20em%20portugu%C3%AAs-009C3B?style=for-the-badge" alt="Leia em português"/></a>
 </p>
 
-<p align="center">
-  Atualmente atuando com foco em Java e desenvolvimento de soluções escaláveis.
-</p>
 </div>
 
+## 👨‍💻 About me
 
-<div align="center">
-<td>
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=ThiagoXavierCP&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="350" loading="lazy" />
-</td>
-</div>
+I'm a **Software Developer** working as a **Systems Analyst at Grupo Fleury**, one of Brazil's largest healthcare companies. I build **backend services, integrations and process automations** with **Java, Spring Boot, SQL Server and Lecom BPM**, turning manual workflows into reliable, auditable systems and connecting platforms that were never designed to talk to each other.
 
-<div align="center">
-<td>
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiagoXavierCP&theme=github_dark"/>
-</td>
-</div>
- 
-<div align="center" valign="top"><br>
-<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> 
-<img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-<img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-<img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-</div><br>
+I'm also the founder of **Kernne**, a software studio that builds apps, websites, systems and automations for small and medium businesses, focused on **B2B SaaS** products.
 
- 
+- 🏥 Automating business processes at enterprise scale in healthcare
+- 🤖 Building Java robots that sync data across HR, BPM and external APIs
+- 🚀 Shipping SaaS products end to end, from database design to mobile app
+- 🎓 B.Sc. in Information Systems at Newton Paiva
 
-<div align="center">
-<a href="https://www.instagram.com/xavieer_16/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/thiagoxaviercp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="mailto:tiagoxaviercp02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+## 🛠️ What I do
 
- 
+| Area | Details |
+|---|---|
+| **Backend & Integrations** | REST APIs with Java/Spring Boot, integration middleware, sync robots with caching, connection reuse and batch queries |
+| **Process Automation (BPM)** | Designing and evolving Lecom BPM workflows, business rules, validations and JavaScript form logic |
+| **Databases** | Data modeling, querying and performance tuning on SQL Server (T-SQL) |
+| **Product & Mobile** | React Native apps backed by Supabase, from prototype to delivery |
+
+## 🧰 Tech stack
 
 <div align="center">
 
- 
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,python&theme=dark" alt="Backend"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="SQL Server"/>
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+**Frontend & Mobile**<br/>
+<img src="https://skillicons.dev/icons?i=js,react,html,css&theme=dark" alt="Frontend"/>
+
+**Cloud, Data & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=supabase,azure,git,github,postman&theme=dark" alt="Tools"/>
+
+<img src="https://img.shields.io/badge/Lecom%20BPM-0B3D91?style=for-the-badge&logoColor=white" alt="Lecom BPM"/>
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
+<img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+
+</div>
+
+## 🚀 Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **CotaUp** | B2B SaaS platform for quotes and negotiation between companies and suppliers | `React` `Supabase` |
+| **Scheddule** | Scheduling SaaS for service businesses (pet shops, salons, barbershops) | `React` `Supabase` |
+| **Evo360** | Wellness app for a multi-specialty clinic | `React Native` `Supabase` |
+| **Enterprise automations** | Java robots and BPM workflows for vendor onboarding, procurement and user sync | `Java` `SQL Server` `Lecom BPM` |
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img src="https://helio-github-stats.vercel.app/api?username=ThiagoXavierCP&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats"/>
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=ThiagoXavierCP&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=ThiagoXavierCP&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
+
+<img src="https://ghchart.rshah.org/1f6feb/ThiagoXavierCP" width="100%" alt="Contributions"/>
+
+</div>
+
+## 🤝 Let's connect
+
+Open to opportunities in **Java backend development**, **process automation** and **systems integration**, as well as projects with **Kernne**.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/thiagoxaviercp/"><img src="https://img.shields.io/badge/Let's%20talk%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:1f6feb,100:0d1117&height=110&section=footer" width="100%" alt="footer"/>
 
 </div>
