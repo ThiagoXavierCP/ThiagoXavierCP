@@ -74,9 +74,9 @@ I'm also the founder of **Kernne**, a software studio that builds apps, websites
 
 <img src="https://helio-github-stats.vercel.app/api/top-langs?username=ThiagoXavierCP&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=ThiagoXavierCP&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=ThiagoXavierCP&theme=github-dark-blue&hide_border=true&v=2" alt="GitHub streak"/>
 
-<img src="https://ghchart.rshah.org/1f6feb/ThiagoXavierCP" width="100%" alt="Contributions"/>
+<img src="https://ghchart.rshah.org/1f6feb/ThiagoXavierCP?v=2" width="100%" alt="Contributions"/>
 
 </div>
 
